@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/tempus-spatium'
+baseurl: '/spratacus'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -29,12 +29,12 @@ description: >-                                                              # u
   Physics, mathematics and philosophy. By Siddhartha Bhattacharjee.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://booodaness.github.io'
-repository: 'https://github.com/Booodaness/tempus-spatium'
+url: 'https://hfasah.github.io/spartacus'
+repository: 'https://hfasah.github.io/spartacus'
 default_branch: 'main'
 
 github:
-  username: Booodaness                  # change to your github username
+  username: Hfasah                  # change to your github username
 
 # twitter:
 #   username: twitter_username          # change to your twitter username
