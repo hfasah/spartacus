@@ -1,0 +1,41 @@
+#  The contact options.
+- 
+  type: mathstodon
+  icon: 'fab fa-mastodon'
+  url: 'https://mathstodon.xyz/@Booodaness'
+-
+  type: reddit
+  icon: 'fab fa-reddit'
+  url: 'https://www.reddit.com/user/Booodaness'
+-
+  type: github
+  icon: 'fab fa-github'
+-
+  type: orcid
+  icon: 'fab fa-orcid'
+  url: https://orcid.org/0000-0001-9510-2066
+-
+  type: zotero
+  icon: 'fas fa-book'
+  url: https://www.zotero.org/booodaness
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: true            # open link in current tab
+
+# Uncomment and complete the url below to enable more contact options
+# -
+#   type: twitter
+#   icon: 'fab fa-twitter'
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
+# -
+#   type: mastodon
+#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your mastodon account page
+# -
+#   type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Linkedin homepage
